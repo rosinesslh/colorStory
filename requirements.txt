@@ -1,1 +1,4 @@
 flask
+openai
+urllib3==1.26.15
+Python-dotenv
