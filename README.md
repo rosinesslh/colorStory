@@ -4,8 +4,8 @@ Type anything and see what colors suit the description
 ColorStory will render the returned colors and you can click on the color block to copy the color's hex code
 
 ## Try the web app live here
-https://outgoing-exultant-vertebra.glitch.me
-\Note: it might take several minutes when first loading the project cause glitch needs to start the backend server.
+https://outgoing-exultant-vertebra.glitch.me <br>
+Note: it might take several minutes when first loading the project cause glitch needs to start the backend server.
 
 ## Tech Stack
 Backend: Flask<br>
