@@ -29,7 +29,7 @@ def get_colors(msg):
     """
 
     response = openai.Completion.create(
-        model = "text-davinci-003",
+        model = "gpt-3.5-turbo-instruct",
         prompt = prompt,
         max_tokens = 100,
         #n=3 
